@@ -36,6 +36,18 @@ Model dibangun secara `Sequential` memanfaatkan API tingkat tinggi dari Keras de
 
 ---
 
+## Cara Menjalankan Program di Google Colab
+
+Untuk menjalankan kode program di repositori ini, ikuti langkah-langkah mudah berikut:
+
+1. **Buka File Notebook:** Klik file `H1D024098_PraktikumKB_Pertemuan7.ipynb` yang ada di atas halaman repositori GitHub ini.
+2. **Buka di Google Colab:** Di bagian atas tampilan kode, klik lencana/tombol bertuliskan **"Open in Colab"** (Buka di Colab). Kamu akan diarahkan langsung ke halaman kerja Google Colab.
+3. **Hubungkan Runtime:** Klik tombol **"Connect"** (Hubungkan) di pojok kanan atas halaman Google Colab.
+4. **Jalankan Kode:** Pilih kotak sel kode utama, kemudian klik tombol **Play (Run)** di sebelah kiri kotak, atau tekan kombinasi tombol `Ctrl + Enter` pada keyboard Anda.
+5. **Prediksi Interaktif:** Setelah proses pelatihan (*training*) selesai, program akan memunculkan perintah input di bagian bawah. Masukkan nilai angka desimal untuk *sepal length*, *sepal width*, *petal length*, dan *petal width* secara berurutan untuk melihat hasil prediksi spesies bunga secara langsung.
+
+---
+
 ## Hasil Evaluasi Model
 Berdasarkan proses pelatihan (*training*) sebanyak 50 epoch yang dilakukan pada Google Colab, diperoleh performa akhir model sebagai berikut:
 
