@@ -1,14 +1,9 @@
-# H1D024098_Talitha Maharani Nashier_ShiftC
+H1D024098_Talitha Maharani Nashier_ShiftC
 
 # Praktikum Kecerdasan Buatan - Pertemuan 7
 **Implementasi Jaringan Saraf Tiruan (JST) untuk Klasifikasi Dataset Iris**
 
 Repositori ini dibuat untuk memenuhi tugas praktikum mata kuliah Kecerdasan Buatan pada Pertemuan 7. Fokus utama pada modul ini adalah memahami penerapan arsitektur *Artificial Neural Network* (ANN) / Jaringan Saraf Tiruan menggunakan pustaka TensorFlow dan Keras di Python untuk mengklasifikasikan spesies bunga Iris.
-
-## Identitas Mahasiswa
-* **Nama:** [Isi Nama Kamu di Sini]
-* **NIM:** H1D024098
-* **Kelas Praktikum:** Kecerdasan Buatan
 
 ---
 
