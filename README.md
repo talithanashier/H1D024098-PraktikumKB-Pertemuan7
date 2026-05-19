@@ -51,6 +51,3 @@ Model berhasil memprediksi sebagian besar sampel pada data uji dengan sangat bai
 * `pandas` & `numpy` (untuk manipulasi data tabel dan array)
 * `scikit-learn` (untuk LabelEncoder dan Train-Test Split data)
 * `matplotlib` & `seaborn` (untuk visualisasi grafik performa dan confusion matrix)
-
----
-*Praktikum Kecerdasan Buatan 2026*
